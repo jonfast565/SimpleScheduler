@@ -1,5 +1,5 @@
 [package]
-name = "SimpleScheduler"
+name = "simple_scheduler"
 version = "0.1.0"
 authors = ["Jon Fast <jnfstdj656@gmail.com>"]
 edition = "2018"
