@@ -5,3 +5,4 @@ authors = ["Jon Fast <jnfstdj656@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+serde_json = "1.0"
